@@ -1,0 +1,11 @@
+#davfirbor {width:406px;height:206px;background:linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(124,155,246,1) 100%);margin:0 auto;}
+#davfirimg {width:400px;height:200px;background:url('https://i.imgur.com/aQLVfUE.png');margin:0 auto;overflow:hidden;position:relative;top:3px;}
+#davfircua {width:350px;height:175px;background:url('https://i.imgur.com/XpOTsGK.png');margin:0 auto;position:relative;top:150px;transition:1s;}
+#davfircua:hover {width:350px;height:175px;background:url('https://i.imgur.com/XpOTsGK.png');margin:0 auto;position:relative;top:25px;transition:1s;}
+#davfirfle {display:flex;justify-content:center;}
+#davfirico {width:50px;height:50px;background:linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(124,155,246,1) 100%);text-align:center;}
+#davfirtex {width:250px;height:50px;text-align:center;line-height:50px;font-family:'Patheos';font-size:40px;background:linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(124,155,246,1) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-transform:uppercase;}
+#davfirtim1 {width:116px;height:125px;background:url('https://i.imgur.com/ev4wJ8r.png');}
+#davfirtim2 {width:118px;height:125px;background:url('https://i.imgur.com/hFP1mGh.png');}
+#davfirtim3 {width:116px;height:125px;background:url('https://i.imgur.com/EIP6ay7.png');}
+#davfirinico {font-size:40px;color:#000000;line-height:50px;}
