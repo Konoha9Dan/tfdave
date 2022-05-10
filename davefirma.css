@@ -5,7 +5,10 @@
 #davfirfle {display:flex;justify-content:center;}
 #davfirico {width:50px;height:50px;background:linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(124,155,246,1) 100%);text-align:center;}
 #davfirtex {width:250px;height:50px;text-align:center;line-height:50px;font-family:'Patheos';font-size:40px;background:linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(124,155,246,1) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-transform:uppercase;}
-#davfirtim1 {width:116px;height:125px;background:url('https://i.imgur.com/ev4wJ8r.png');}
-#davfirtim2 {width:118px;height:125px;background:url('https://i.imgur.com/hFP1mGh.png');}
-#davfirtim3 {width:116px;height:125px;background:url('https://i.imgur.com/EIP6ay7.png');}
+#davfirtim1 {width:116px;height:125px;background:url('https://i.imgur.com/ev4wJ8r.png');filter:grayscale(100%);transition:1s;}
+#davfirtim1:hover {width:116px;height:125px;background:url('https://i.imgur.com/ev4wJ8r.png');filter:grayscale(0%);transition:1s;}
+#davfirtim2 {width:118px;height:125px;background:url('https://i.imgur.com/hFP1mGh.png');filter:grayscale(100%);transition:1s;}
+#davfirtim2:hover {width:118px;height:125px;background:url('https://i.imgur.com/hFP1mGh.png');filter:grayscale(0%);transition:1s;}
+#davfirtim3 {width:116px;height:125px;background:url('https://i.imgur.com/EIP6ay7.png');filter:grayscale(100%);transition:1s;}
+#davfirtim3:hover {width:116px;height:125px;background:url('https://i.imgur.com/EIP6ay7.png');filter:grayscale(0%);transition:1s;}
 #davfirinico {font-size:40px;color:#000000;line-height:50px;}
