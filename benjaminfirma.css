@@ -1,0 +1,7 @@
+#benfircua1 {width:400px;height:200px;background:radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(236,213,64,1) 100%);margin:0 auto;}
+#benfircua2 {width:398px;height:198px;margin:0 auto;background:#000000;position:relative;top:1px;}
+#benfircua3 {width:392px;height:192px;background:url('https://i.imgur.com/yCiQrO1.png');margin:0 auto;position:relative;top:3px;}
+#benfirtext {font-family:'Patheos';font-size:30px;position:relative;top:168px;background:radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(236,213,64,1) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-transform:uppercase;line-height:30px;}
+#benfirico {font-size:100px;background:radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(236,213,64,1) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;line-height:100px;}
+.rotate {width:100px;height:100px;position:relative;top:-20px;right:-282px;animation:rotation 8s infinite linear;}
+@keyframes rotation {from {transform:rotate(0deg);} to {transform:rotate(359deg);}}
