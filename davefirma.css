@@ -1,4 +1,4 @@
-#davfirimg {width:400px;height:200px;background:url('https://i.imgur.com/aQLVfUE.png');margin:0 auto;overflow:hidden;position:relative;top:3px;}
+#davfirimg {width:400px;height:200px;background:url('https://i.imgur.com/xfQ9lTZ.png');margin:0 auto;overflow:hidden;position:relative;top:3px;margin-top:-18px;margin-bottom:13px;}
 #davfircua {width:350px;height:175px;background:url('https://i.imgur.com/XpOTsGK.png');margin:0 auto;position:relative;top:150px;transition:1s;}
 #davfircua:hover {width:350px;height:175px;background:url('https://i.imgur.com/XpOTsGK.png');margin:0 auto;position:relative;top:25px;transition:1s;}
 #davfirfle {display:flex;justify-content:center;}
