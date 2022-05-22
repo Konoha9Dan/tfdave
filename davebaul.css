@@ -8,7 +8,7 @@
 #davbaulflexie {display:flex;justify-content:center;}
 #davbausubtit {font-family:'Playfair Display';font-size:12px;text-transform:lowercase;font-style:italic;letter-spacing:1px;line-height:12px;}
 #davbaulcirc {width:50px;height:50px;background:linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(124,155,246,1) 100%);border-radius:100%;text-align:center;}
-#davbaulcircin {font-size:20px;line-height:50px;background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-image:url(https://i.imgur.com/bskGbb9.png);background-size:cover;background-position:center;background-attachment:fixed;}
+#davbaulcircin {font-size:20px;line-height:50px;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-image:url(https://i.imgur.com/bskGbb9.png);background-size:cover;background-position:center;background-attachment:fixed;}
 .davbaulsepab {width:100%;height:auto;padding-bottom:30px;}
 .rotate {transition:1s;animation:none;}
 .rotate:hover {transition:1s;animation:rotation 8s infinite linear;}
