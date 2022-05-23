@@ -12,4 +12,4 @@
 .davbaulsepab {width:100%;height:auto;padding-bottom:30px;}
 .rotate {transition:1s;animation:none;}
 .rotate:hover {transition:1s;animation:rotation 8s infinite linear;}
-@keyframes rotation {from {transform:rotate(0deg);} to {transform:rotate(359deg);}}
+@keyframes rotation {from {transform:rotate(0deg);} to {transform:rotate(360deg);}}
